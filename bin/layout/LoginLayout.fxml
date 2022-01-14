@@ -25,6 +25,6 @@
 		</BorderPane>
 	</top>
 	<center>
-		<VBox style="-fx-background-color: #0000ff;" />
+		<VBox style="-fx-background-color: #ffff00;" />
 	</center>
 </BorderPane>
